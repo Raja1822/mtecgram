@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863939220031",
+    "project_id": "mtecgram",
+    "storage_bucket": "mtecgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863939220031:android:5ba6a50fb109dd84c51e8a",
+        "android_client_info": {
+          "package_name": "com.example.smtecgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzN7i1J7uYbmyKFCjvSThAU8JvGYoQri4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
